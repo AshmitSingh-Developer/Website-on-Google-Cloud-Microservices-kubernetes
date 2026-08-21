@@ -1,0 +1,17 @@
+.cache/
+.codeoss/
+.config/
+.docker/
+.gemini/
+.kube/
+.npm/
+.vscode/
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.profile
+.sudo_as_admin_successful
+README-cloudshell.txt
+abhishek.sh
+node_modules/
